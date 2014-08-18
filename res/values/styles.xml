@@ -1,0 +1,75 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+		<item name="android:buttonStyle">@style/AppTheme_ButtonStyle</item>
+		<item name="android:radioButtonStyle">@style/AppTheme_RadioButtonStyle</item>
+		<item name="android:spinnerStyle">@style/AppTheme_SpinnerStyle</item>
+        <item name="android:windowTitleSize">32dip</item>
+        <item name="android:windowTitleStyle">@style/AppTheme_WindowTitle</item>
+        <item name="android:windowTitleBackgroundStyle">@style/AppTheme_WindowTitleBackground</item>
+        
+	</style>
+
+	<!-- Button Widget -->
+	<style name="AppTheme_ButtonStyle" parent="@android:style/Widget.Button">
+	    <item name="android:background">@drawable/custom_bg_button</item>
+	    <item name="android:textColor">@color/white</item>
+	    <item name="android:height">40dp</item>
+	</style>	
+	<!-- Radio Button Widget -->
+	<style name="AppTheme_RadioButtonStyle" parent="@android:style/Widget.CompoundButton.RadioButton">
+	    <item name="android:textColor">@color/blue_bufer</item>
+	</style>
+	
+	<!-- Spinner Button Widget -->
+	<style name="AppTheme_SpinnerStyle" parent="@android:style/Widget.Spinner">
+	    <item name="android:background">@drawable/custom_bg_spinner</item>
+	    <item name="android:textColor">@color/white</item> 
+	    <item name="android:height">40dp</item>
+	</style>		
+
+	<style name="AppTheme_WindowTitleBackground">
+     	<item name="android:background">@color/blue_bufer</item>
+    </style>
+    
+   	<style name="AppTheme_WindowTitle">
+		<item name="android:textColor">@color/white</item>
+		<item name="android:paddingLeft">16dp</item>
+		
+    </style>
+	
+	<color name="white">#FFFFFF</color>
+	
+	<color name="blue_bufer">#4784B1</color>
+	
+	<color name="blue_600">#039be5</color>
+	<color name="blue_700">#4D8DB9</color>
+	<color name="blue_800">#4D8DB9</color>
+	<color name="blue_900">#4D8DB9</color>
+	
+	<color name="red_600">#dd191d</color>
+	<color name="red_700">#d01716</color>
+	<color name="red_800">#c41411</color>
+	<color name="red_900">#b0120a</color>
+	
+
+</resources>

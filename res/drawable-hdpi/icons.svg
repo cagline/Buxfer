@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.1 "
+   sodipodi:docname="icons.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="8"
+     inkscape:cx="54.545679"
+     inkscape:cy="16.7333"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="716"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       orientation="1,0"
+       position="0,0"
+       id="guide2987" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="16,0"
+       id="guide2991" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="0,16"
+       id="guide2993" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="0,0"
+       id="guide2995" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="0,32"
+       id="guide2997" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="0,48"
+       id="guide2999" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="20,0"
+       id="guide3863" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#cc0000;stroke:none;fill-opacity:1"
+       id="rect3001"
+       width="16"
+       height="5"
+       x="0"
+       y="1041.8622" />
+    <g
+       id="g3790">
+      <rect
+         style="fill:#00cc00;fill-opacity:1;stroke:none"
+         id="rect3782"
+         width="16"
+         height="5"
+         x="0"
+         y="1025.8622" />
+      <rect
+         transform="matrix(0,-1,-1,0,0,0)"
+         y="-10.5"
+         x="-1036.3622"
+         height="5"
+         width="16"
+         id="rect3784"
+         style="fill:#00cc00;fill-opacity:1;stroke:none" />
+    </g>
+    <path
+       style="fill:#00cc00;fill-opacity:1;stroke:none"
+       d="m 0,1009.1221 0,2.7401 16,0 0,-0.042 -2.611404,-2.6973 -13.388596,0 z"
+       id="rect3788"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3816"
+       d="m 13.38863,1009.1221 -2.61147,-2.6802 0,2.6802 2.61147,0 z"
+       style="fill:#00cc00;fill-opacity:1;stroke:none" />
+    <g
+       id="g3820"
+       transform="matrix(1.3298757,0,0,1.3648624,0,-369.54649)">
+      <path
+         inkscape:connector-curvature="0"
+         id="rect3786"
+         d="m 0,1012.875 2,1.9872 10.0312,0 0,-1.9872 z"
+         style="fill:#cc0000;fill-opacity:1;stroke:none"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:#cc0000;fill-opacity:1;stroke:none"
+         d="m 2,1014.8622 1.9688,1.9688 0,-1.9688 -1.9688,0 z"
+         id="path3818"
+         inkscape:connector-curvature="0" />
+    </g>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:none"
+       id="rect3836"
+       width="16"
+       height="16"
+       x="0"
+       y="1004.3622"
+       inkscape:export-filename="C:\Users\CAGLine\Pictures\transfer.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect3838"
+       width="16"
+       height="16"
+       x="0"
+       y="1020.3622"
+       inkscape:export-filename="C:\Users\CAGLine\Pictures\income.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect3840"
+       width="16"
+       height="16"
+       x="0"
+       y="1036.3622"
+       inkscape:export-filename="C:\Users\CAGLine\Pictures\expences.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:none"
+       id="rect3865"
+       width="32"
+       height="16"
+       x="0"
+       y="1004.3622"
+       inkscape:export-filename="E:\eclipse\Buxfer\res\drawable-hdpi\transfer.9.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect3867"
+       width="32"
+       height="16"
+       x="0"
+       y="1020.3622"
+       inkscape:export-filename="E:\eclipse\Buxfer\res\drawable-hdpi\income.9.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect3869"
+       width="32"
+       height="16"
+       x="0"
+       y="1036.3622"
+       inkscape:export-filename="E:\eclipse\Buxfer\res\drawable-hdpi\expense.9.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect3871"
+       width="16"
+       height="16"
+       x="0"
+       y="1004.3622" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect3005"
+       width="16"
+       height="16"
+       x="0"
+       y="1004.3622"
+       inkscape:export-filename="E:\eclipse\Buxfer\res\drawable-hdpi\transfer.9.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect3007"
+       width="16"
+       height="16"
+       x="0"
+       y="1020.3622"
+       inkscape:export-filename="E:\eclipse\Buxfer\res\drawable-hdpi\income.9.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect3009"
+       width="16"
+       height="16"
+       x="0"
+       y="1036.3622"
+       inkscape:export-filename="E:\eclipse\Buxfer\res\drawable-hdpi\expense.9.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect3011"
+       width="20"
+       height="16"
+       x="0"
+       y="1004.3622"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="E:\eclipse\Buxfer\res\drawable-hdpi\transfer.9.png" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect3013"
+       width="20"
+       height="16"
+       x="0"
+       y="1020.3622"
+       inkscape:export-filename="E:\eclipse\Buxfer\res\drawable-hdpi\income.9.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect3015"
+       width="20"
+       height="16"
+       x="0"
+       y="1036.3622"
+       inkscape:export-filename="E:\eclipse\Buxfer\res\drawable-hdpi\expense.9.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect3017"
+       width="16"
+       height="16"
+       x="0"
+       y="1004.3622"
+       inkscape:export-xdpi="405"
+       inkscape:export-ydpi="405" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect3019"
+       width="16"
+       height="16"
+       x="0"
+       y="1020.3622"
+       inkscape:export-xdpi="405"
+       inkscape:export-ydpi="405" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect3021"
+       width="16"
+       height="16"
+       x="0"
+       y="1036.3622"
+       inkscape:export-xdpi="405"
+       inkscape:export-ydpi="405" />
+  </g>
+</svg>
