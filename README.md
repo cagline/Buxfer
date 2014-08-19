@@ -3,7 +3,7 @@
 
 #####Buxfer Android Application is a 3rd pary Application created using Buxfer API #####
 
-_Buxfer Website_ - https://www.buxfer.com 
+*Buxfer Website* - https://www.buxfer.com 
 
 _Buxfer API_ - https://www.buxfer.com/help/api 
 
@@ -14,4 +14,4 @@ https://github.com/cagline/Buxfer/blob/master/Buxfer.apk
 
 ####TODO####
 Using Shared Preferences, Store transaction data on locally when network access not available.<br/>
-Then automatically Synchronizing stored data, when network access available.
+Then automatically or/and manually Synchronizing stored data, when network access available.
