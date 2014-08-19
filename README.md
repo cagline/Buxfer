@@ -15,3 +15,7 @@ https://github.com/cagline/Buxfer/blob/master/Buxfer.apk
 ####TODO####
 Using Shared Preferences, Store transaction data on locally when network access not available.<br/>
 Then automatically or/and manually Synchronizing stored data, when network access available.
+
+
+
+![alt tag](https://raw.githubusercontent.com/cagline/Buxfer/master/Buxfer%20Android%20App.jpg)
