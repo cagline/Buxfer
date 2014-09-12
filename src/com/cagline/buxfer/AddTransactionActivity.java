@@ -226,7 +226,7 @@ public class AddTransactionActivity extends Activity {
 				    RadioButton rdobtnTransactionType = (RadioButton) findViewById(selectedId);
 					String strTransactionType = (String) rdobtnTransactionType.getText().toString();
 					
-					if(strTransactionType.equalsIgnoreCase("Expend")){
+					if(strTransactionType.equalsIgnoreCase("Expense")){
 						requestParams.add(new BasicNameValuePair("text",strTransaction+" "+strAmount+" tags:"+strTag+" acct:"+strAccount));
 					}else if(strTransactionType.equalsIgnoreCase("Income")){
 						requestParams.add(new BasicNameValuePair("text",strTransaction+" +"+strAmount+" tags:"+strTag+" acct:"+strAccount));
